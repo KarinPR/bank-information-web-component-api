@@ -1,1 +1,1 @@
-# bank-information-web-component-api
+# working bank-information web component API
